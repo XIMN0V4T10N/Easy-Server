@@ -5,7 +5,6 @@ Easy Server Credits:
 <br>
   - Developed by: XImn0
  <br>
- <br>
   - Under License: MIT
  <br>
  <br>
