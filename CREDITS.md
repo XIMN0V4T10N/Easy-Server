@@ -2,9 +2,7 @@
 
 Easy Server Credits:
 <br>
-<br>
   - Developed by: XImn0
- <br>
   - Under License: MIT
  <br>
  <br>
