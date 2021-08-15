@@ -4,11 +4,7 @@ Easy Server Credits:
 <br>
   - Developed by: XImn0
   - Under License: MIT
- <br>
- <br>
-  - Release Date: 2021/16/08
- <br>
- <br>
+  - Release Date: 2021
  XIMN0 DB: {
  <br>
  <br>
