@@ -2,21 +2,30 @@
 
 Easy Server Credits:
 <br>
- Developed by: XImn0
+<br>
+  - Developed by: XImn0
  <br>
- Under License: MIT
  <br>
- Release Date: 2021/16/08
+  - Under License: MIT
+ <br>
+ <br>
+  - Release Date: 2021/16/08
+ <br>
  <br>
  XIMN0 DB: {
  <br>
-    XIMN0 Project ID: VXYsYFrPk2ou8d2dcNkI
+ <br>
+    - XIMN0 Project ID: VXYsYFrPk2ou8d2dcNkI
   <br>
-    REGISTRATION DATE: 2021/16/08
   <br>
-    GITHUB REPO: https://github.com/XImn0v4t10n/Easy-Server/
+    - REGISTRATION DATE: 2021/16/08
   <br>
-    LAST UPDATE: 2021/16/08
+  <br>
+    - GITHUB REPO: https://github.com/XImn0v4t10n/Easy-Server/
+  <br>
+  <br>
+    - LAST UPDATE: 2021/16/08
+  <br>
   <br>
  }
 
