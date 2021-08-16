@@ -7,7 +7,7 @@ Easy Server is a Fast Express Server creator, that allows you to have a fast and
 
 | Version | Release Date | Changelog              |           Download          | Avaliable |
 |---------|--------------|------------------------|:---------------------------:|-----------|
-|  1.0.0  |  16/08/2021  | <a href="">Read It</a> | <a href="">Download It!</a> |     ✅     |
+|  1.0.0  |  16/08/2021  | <a href="">Read It</a> | <a href="https://github.com/XIMN0V4T10N/Easy-Server/releases/download/1.0.0/easy-server-packaged-1.0.0.zip">Download It!</a> |     ✅     |
 |  1.2.0  |     SOON!    |      Not Avaliable     |        Not Avaliable        |     ❌     |
 |  1.3.0  |     SOON!    |      Not Avaliable     |        Not Avaliable        |     ❌     |
 
