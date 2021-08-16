@@ -5,6 +5,11 @@ Easy Server is a Fast Express Server creator, that allows you to have a fast and
 
 <h2 align="center">Downloads</h2>
 
+| Version | Release Date | Changelog              |           Download          | Avaliable |
+|---------|--------------|------------------------|:---------------------------:|-----------|
+|  1.0.0  |  16/08/2021  | <a href="">Read It</a> | <a href="">Download It!</a> |     ✅     |
+|  1.2.0  |     SOON!    |      Not Avaliable     |        Not Avaliable        |     ❌     |
+|  1.3.0  |     SOON!    |      Not Avaliable     |        Not Avaliable        |     ❌     |
 
 <h2 align="center">Installation</h2>
 Installing Easy Server is very Easy, you only need to download the files in the download part of the README and uncompressit were you want, then you access to the folder that contins it and you can use it!
