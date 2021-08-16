@@ -2,6 +2,10 @@
 
 Easy Server is a Fast Express Server creator, that allows you to have a fast and safe WebServer for doing tests!, this is like xammp but... IDK if a better tool, but with a lot of cool thing's in it!
 
+
+<h2 align="center">Downloads</h2>
+
+
 <h2 align="center">Installation</h2>
 Installing Easy Server is very Easy, you only need to download the files in the download part of the README and uncompressit were you want, then you access to the folder that contins it and you can use it!
 <br>
