@@ -3,14 +3,8 @@
 Easy Server is a Fast Express Server creator, that allows you to have a fast and safe WebServer for doing tests!, this is like xammp but... IDK if a better tool, but with a lot of cool thing's in it!
 
 <h2 align="center">Installation</h2>
-Installing Easy Server is very Easy, ok, now we are having some troubles with the packaging and Build of the app, but asap we are going to release the first installer that are going to be for:
+Installing Easy Server is very Easy, you only need to download the files in the download part of the README and uncompressit were you want, then you access to the folder that contins it and you can use it!
 <br>
-   - Windows
-     <br>
-   - Mac (This is going to be harder [Because I don't have a MAC] )
-     <br>
-   - Linux (This is going to be released on the version 1.5.0)
-
 <h2 align="center">Screenshots</h2>
 <center>
   <img src="https://res.cloudinary.com/ximn0v4t10n/image/upload/v1629078603/Easy_Server_Screencapture_xjm7pj.png" alt="scrsh_1" />
