@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootswatch [Slate] -->
+    <link rel="stylesheet" href="https://bootswatch.com/5/slate/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="../css/mainWindow.css">
+</head>
+<body>
+    <div class="title">
+        <h1 class="und">EASY - SERVER</h1>
+    </div>
+    <br>
+    <div class="port-form">
+        <form>
+            <h3>Wich PORT you wan't to use?</h3>
+            <br>
+            <input type="text" id="port" placeholder="Example: 5050, 8080, 3000" required maxlength="4">
+            <br>
+            <br>
+            <h3>You wan't use HTTPS protocol?</h3>
+            <br>
+            <input type="checkbox" id="https_enabled" class="form-check-input">
+            <label for="https_enabled" lang="en" class="label">Use HTTPS protocol</label>
+            <br>
+            <br>
+            <button class="btn btn-danger" id="btn-start-serv" type="submit">Turn On the Server <i class="fas fa-power-off"></i></button>
+        </form>
+    </div>
+    <div class="btn-container">
+        <p class="server-status-conn" id="status">
+            
+        </p>
+        <button class="btn btn-disabled">Open phpmyadmin</button>
+        <br>
+        <button class="btn btn-warning" id="bugrep">Report a Bug</button>
+    </div>
+    <footer>
+        <!-- Program -->
+        <div class="prog">
+            <a href="javascript:void(0)" id="license">License</a>
+            <a href="javascript:void(0)" id="plugins">Plugins</a>
+            <a href="javascript:void(0)" id="credits">Credits</a>
+        </div>
+
+    </footer>
+
+    <script src="../server/main.js"></script>
+    <script src="../js/links.js"></script>
+</body>
+</html>
