@@ -1,4 +1,4 @@
-<h1 align="center">Easy Server</h1>
+<h1 align="center" id="top">Easy Server</h1>
 
 Easy Server is a Fast Express Server creator, that allows you to have a fast and safe WebServer for doing tests!, this is like xammp but... IDK if a better tool, but with a lot of cool thing's in it!
 
@@ -31,3 +31,7 @@ If you think the project is useful and you wan't to help us you can buy us a cof
   [Buy Me A Coffe]|| <a href="" target="about:blank">Click Here!</a>
   <br>
   [PayPal]|| <a href="" target="about:blank">Click Here!</a>
+  <br>
+  <br>
+  <br>
+  <a href="#top"><button>Go To Top</button></a>
